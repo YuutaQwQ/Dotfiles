@@ -1,0 +1,41 @@
+sw_volume: 86
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 2
+time: 120.138000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:! でれぱ音頭 ＼ドンドンカッ/AUD-20190421-WA0111.mp3
+1:Awaken the power/Awaken the power.mp3
+2:Ghibli Jazz/Ghibli Jazz - 07. カントリーロード (Country Road).mp3
+3:Japanese Disco Edits/Selfish High Heels (feat. Harrison _ マクロスMACROSS 8.mp3
+4:Joji - Ballads 1/01 ATTENTION 1.mp3
+5:Joji - Ballads 1/02 SLOW DANCING IN THE DARK.mp3
+6:Aogashima Island ! (Single)/Aogashima Island !.mp3
+7:Sailor Team Hits!/02-Macross 82​-​99 - Fun Tonight.mp3
+8:Sailor Team Hits!/01-Macross 82​-​99 - Sailor Team .mp3
+9:Sailor wave ll/マクロスMACROSS 82-99 uno.MP3
+10:Sailor wave ll/マクロスMACROSS 82-99 dos.MP3
+11:Sailor wave ll/マクロスMACROSS 82-99_2 tres.MP3
+12:Sailor wave ll/マクロスMACROSS 82-99_3 cuatro.MP3
+13:Sailor wave ll/︎ マクロスMACROSS 82-99 cinco.MP3
+14:Sailor wave ll/︎ マクロスMACROSS 82-99_2 seis.MP3
+15:Sailor wave ll/︎ マクロスMACROSS 82-99_3 siete.MP3
+16:Sailor wave ll/︎ マクロスMACROSS 82-99_4 ocho.MP3
+17:Sailor wave ll/︎ マクロスMACROSS 82-99_5 nueve.MP3
+18:Sailor wave ll/︎ マクロスMACROSS 82-99_6 diez.MP3
+19:Sailor wave ll/︎ マクロスMACROSS 82-99_7 once.MP3
+20:Summer Touch/03-For You (feat. Morning) .mp3
+21:Summer Touch/06-At Night .mp3
+22:Aogashima Island ! (Single)/Aogashima Island !.mp3
+23:Summer Touch/03-For You (feat. Morning) .mp3
+24:Summer Touch/06-At Night .mp3
+25:Labyrinth - EP/MONDO GROSSO  ラビリンス.mp3
+playlist_end
